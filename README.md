@@ -13,3 +13,13 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+## Warning 
+This project may cause some issues with dependencies on your machine. Try running the test multiple times to see if you get the same error. If faced with same error. 
+
+Run 
+```shell
+npx hardhat clean
+```
+
+and try again.
